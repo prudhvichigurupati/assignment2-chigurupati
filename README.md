@@ -22,4 +22,18 @@ It was built by the fifth Mughal emperor, Shah Jahan in 1631 in memory of his th
 * Westover Hills
 * Midlothian
 
+To know more about me please click on the link below,
+* **[About Me](AboutMe.md)**
 
+---
+
+## Four best places in USA
+
+The table below lists famous places in various cities throughout the United States, as well as the time required to visit those locations.
+
+| City name | location | Time takes |
+| --- | --- | ---: |
+| NewYork | Montclair | 60mins |
+| NewJersey | Gramercy | 70mins |
+| Chicago | Art Institute | 40mins |
+| Dallas | Bridge | 50mins |
