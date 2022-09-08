@@ -37,3 +37,13 @@ The table below lists famous places in various cities throughout the United Stat
 | NewJersey | Gramercy | 70mins |
 | Chicago | Art Institute | 40mins |
 | Dallas | Bridge | 50mins |
+
+## Quotes I like
+
+> You never have to change anything you got up in the middle of the night to write.
+  *-Saul Bellow*
+
+> No tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader.
+  *-Robert Frost*
+ 
+---
