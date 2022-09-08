@@ -16,4 +16,10 @@ It was built by the fifth Mughal emperor, Shah Jahan in 1631 in memory of his th
 6. Turn left onto US-71 BUS N
 7. Destination will be on the right
 
+## Places around Richmond Historical Museum
+
+* The West End
+* Westover Hills
+* Midlothian
+
 
